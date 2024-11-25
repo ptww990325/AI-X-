@@ -187,6 +187,8 @@
   앞으로는 딥러닝 모델을 더욱 최적화하거나 더 많은 특성을 탐색하여 예측 정확도를 향상시킬 수 있습니다.
 
 ---
+Video link：https://youtu.be/g2-NZIjLvJA?si=3VMfMwDK6WDj12Cy
+---
 
 ### 팀원 기여도
 
